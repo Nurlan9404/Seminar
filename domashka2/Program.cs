@@ -85,5 +85,5 @@ if (dayoftheweek == 3 || dayoftheweek == 4)
 }
 if (dayoftheweek == 5)
 {
-    System.Console.WriteLine("Завтра уже выходной.");*/
-}
+    System.Console.WriteLine("Завтра уже выходной.");
+}*/
