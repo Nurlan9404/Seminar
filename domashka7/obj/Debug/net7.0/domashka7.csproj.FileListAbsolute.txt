@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\obj\Debug\net7.0\domashka7.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\obj\Debug\net7.0\domashka7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\obj\Debug\net7.0\domashka7.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\obj\Debug\net7.0\domashka7.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\obj\Debug\net7.0\domashka7.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\bin\Debug\net7.0\domashka7.exe
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\bin\Debug\net7.0\domashka7.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\bin\Debug\net7.0\domashka7.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\bin\Debug\net7.0\domashka7.dll
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\bin\Debug\net7.0\domashka7.pdb
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\obj\Debug\net7.0\domashka7.dll
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\obj\Debug\net7.0\refint\domashka7.dll
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\obj\Debug\net7.0\domashka7.pdb
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\obj\Debug\net7.0\domashka7.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\Domashka\domashka7\obj\Debug\net7.0\ref\domashka7.dll
